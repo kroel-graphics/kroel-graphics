@@ -8,12 +8,12 @@ Herramientas públicas para usar [kroelgraphics.com](https://kroelgraphics.com) 
 
 ## Terminal
 
-Requiere Node 18 o más reciente. Sin instalar nada:
+Requiere Node 18 o más reciente. Paquete en npm: [kroel-graphics](https://www.npmjs.com/package/kroel-graphics). Sin instalar nada:
 
 ```bash
-npx github:kroel-graphics/kroel-graphics servicios
-npx github:kroel-graphics/kroel-graphics preguntar "¿hacen portadas de discos?"
-npx github:kroel-graphics/kroel-graphics cotizar --nombre "Ana" --contacto "+52 664 000 0000" --detalle "Logo para mi cafetería" --prueba
+npx kroel-graphics servicios
+npx kroel-graphics preguntar "¿hacen portadas de discos?"
+npx kroel-graphics cotizar --nombre "Ana" --contacto "+52 664 000 0000" --detalle "Logo para mi cafetería" --prueba
 ```
 
 `--prueba` usa el entorno de pruebas: valida todo pero no le envía nada a nadie. Quítalo para enviar la solicitud de verdad. `kroel ayuda` muestra todos los comandos.
