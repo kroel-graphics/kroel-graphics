@@ -24,6 +24,8 @@ npx github:kroel-graphics/kroel-graphics cotizar --nombre "Ana" --contacto "+52 
 { "mcpServers": { "kroel-graphics": { "type": "http", "url": "https://kroelgraphics.com/mcp" } } }
 ```
 
+Publicado en el [directorio oficial de MCP](https://registry.modelcontextprotocol.io/v0/servers?search=kroelgraphics) como `com.kroelgraphics/estudio` y `com.kroelgraphics/docs` (dominio verificado).
+
 Herramientas: `get_services`, `get_contact`, `prepare_quote`, `send_quote_request`. Hay un segundo servidor para leer la documentación: `https://kroelgraphics.com/docs/mcp`.
 
 ## Plugin
@@ -37,6 +39,8 @@ Herramientas: `get_services`, `get_contact`, `prepare_quote`, `send_quote_reques
 ```bash
 npx skills add kroel-graphics/kroel-graphics
 ```
+
+[![skills.sh](https://skills.sh/b/kroel-graphics/kroel-graphics)](https://skills.sh/kroel-graphics/kroel-graphics)
 
 ## API
 
