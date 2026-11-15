@@ -1,0 +1,35 @@
+{
+  "name": "kroel-graphics",
+  "version": "1.0.0",
+  "description": "CLI y kit para agentes de Kroel Graphics: consulta servicios y envía solicitudes de cotización a kroelgraphics.com. Sin dependencias.",
+  "keywords": [
+    "kroel-graphics",
+    "cli",
+    "mcp",
+    "agent-skills",
+    "diseño",
+    "cotizacion"
+  ],
+  "homepage": "https://kroelgraphics.com/developers",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kroel-graphics/kroel-graphics.git"
+  },
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "kroel": "bin/kroel.mjs"
+  },
+  "files": [
+    "bin",
+    "skills",
+    "assets",
+    "plugin.json",
+    "mcp.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}

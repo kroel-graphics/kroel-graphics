@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "kroel-graphics": {
+      "type": "http",
+      "url": "https://kroelgraphics.com/mcp"
+    }
+  }
+}

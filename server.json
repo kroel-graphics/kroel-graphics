@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.kroelgraphics/estudio",
+  "title": "Kroel Graphics",
+  "description": "Servicios, contacto y solicitudes de cotización de Kroel Graphics (estudio de diseño, Tijuana).",
+  "version": "1.0.0",
+  "websiteUrl": "https://kroelgraphics.com",
+  "repository": {
+    "url": "https://github.com/kroel-graphics/kroel-graphics",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://kroelgraphics.com/mcp"
+    }
+  ]
+}

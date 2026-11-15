@@ -1,0 +1,18 @@
+{
+  "name": "kroel-graphics",
+  "version": "1.0.0",
+  "description": "Consulta los servicios de Kroel Graphics y envía solicitudes de cotización: habilidad para agentes y servidor MCP.",
+  "author": {
+    "name": "Kroel Graphics",
+    "url": "https://kroelgraphics.com"
+  },
+  "homepage": "https://kroelgraphics.com/developers",
+  "repository": "https://github.com/kroel-graphics/kroel-graphics",
+  "license": "MIT",
+  "keywords": [
+    "diseño",
+    "cotizacion",
+    "mcp",
+    "agent-skills"
+  ]
+}
