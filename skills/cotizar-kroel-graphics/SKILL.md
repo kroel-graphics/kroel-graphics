@@ -17,7 +17,7 @@ Kroel Graphics es el estudio creativo de Luis en Tijuana, México. Trabaja en l�
 1. Reúne con el usuario: qué servicio necesita, la idea, referencias, fecha de entrega, presupuesto aproximado y su nombre.
 2. Opción A — formulario: abre https://kroelgraphics.com/#cotiza, marca los servicios, llena las preguntas y envía; el sitio abre WhatsApp con el resumen.
 3. Opción B — WhatsApp directo: abre `https://wa.me/5216641554842?text=<mensaje codificado>` con un resumen del paso 1. El usuario debe confirmar el envío.
-4. No hay precios públicos: cada proyecto se cotiza a la medida. No inventes precios.
+4. Precios de arranque (MXN): logo desde $3,500; cover art desde $1,500; flyer desde $900; edición de video desde $1,000 por reel; sitio web desde $6,000 (https://kroelgraphics.com/pricing.md). El precio final lo cotiza Luis: no cites precios menores ni inventes otros.
 
 ## Límites
 

@@ -57,6 +57,6 @@ Entorno de pruebas: `https://kroelgraphics.com/sandbox/api/v1`.
 
 ## Importante
 
-No hay precios automáticos: cada proyecto lo cotiza Luis a la medida y contesta él. Envía solo datos de personas que lo autorizaron. Este repositorio no contiene diseños ni archivos de clientes; la licencia MIT cubre únicamente el código.
+Hay [precios de arranque](https://kroelgraphics.com/pricing) publicados; la cotización exacta la da Luis y contesta él. Envía solo datos de personas que lo autorizaron. Este repositorio no contiene diseños ni archivos de clientes; la licencia MIT cubre únicamente el código.
 
 Contacto: [WhatsApp](https://wa.me/5216641554842) · [kroelgraphics.com](https://kroelgraphics.com)

@@ -15,7 +15,7 @@ Kit público de Kroel Graphics, el estudio creativo de Luis en Tijuana, México 
 
 ## Reglas
 
-1. No inventes precios, tiempos de entrega, descuentos ni clientes. Cada proyecto lo cotiza Luis a la medida.
+1. No inventes precios, tiempos de entrega, descuentos ni clientes. Los únicos precios que puedes citar son los de arranque de https://kroelgraphics.com/pricing.md; el precio final lo cotiza Luis.
 2. Envía una solicitud de cotización real solo con datos de una persona que lo autorizó. Para ensayar usa `--prueba` o el sandbox.
 3. Estados Unidos: solo trabajo en línea. No ofrezcas sesiones presenciales allá.
 4. No se atienden marcas del giro de cannabis.
